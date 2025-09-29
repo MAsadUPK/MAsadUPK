@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MAsadUPK
 - 👀 I’m interested in Web Development, Wordpress, Android Development & Startups!
-- 🌱 I’m currently learning Android Development using Jetpack Compose
-- 💞️ I’m looking to collaborate on Android Studio Apps
+- 🌱 I’m currently learning WordPress SEO
+- 💞️ I’m looking to collaborate on WordPress Development
 - 📫 How to reach me masadupk@gmail.com
 
 <!---
